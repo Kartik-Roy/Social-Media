@@ -1,7 +1,7 @@
 # Social-Media
 
 
-This is a social media website build using ----> Frontend ---> ReactJS.
+This is a social media website build using <br/> ----> Frontend ---> ReactJS.
                                           |
                                            ----> Backend ---> NodeJs
                                                        | 
