@@ -2,7 +2,7 @@
 
 
 This is a social media website build using <br/> ----> Frontend ---> ReactJS.
-                                          |
+                                          <br/>
                                            ----> Backend ---> NodeJs
                                                        | 
                                                          ---> ExpressJs
